@@ -1,0 +1,11 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        "/Movie/Samples/BackToTheFuture.json",
+        "/Movie/Samples/JurassicPark.json",
+        "/Movie/Samples/Matrix.json"
+    ],
+    "itemListOrder": "http://schema.org/ItemListOrderDescending",
+    "name": "My top 3 of movies"
+}
